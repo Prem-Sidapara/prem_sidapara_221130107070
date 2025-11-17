@@ -1,9 +1,4 @@
-npm install express cors dotenv bcryptjs jsonwebtoken mysql2 mongoose;
-npm install --save-dev nodemon jest supertest ;
+npm install express cors dotenv bcryptjs jsonwebtoken mysql2 mongoose --save-dev @types/js-cookie axios js-cookie --save-dev nodemon jest supertest;
 
-npx create-next-app@latest frontend --typescript --tailwind --app --no-src-dir;
 
-npm install axios js-cookie;
-
-npm install --save-dev @types/js-cookie;
 
