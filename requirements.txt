@@ -1,4 +1,0 @@
-npm install express cors dotenv bcryptjs jsonwebtoken mysql2 mongoose --save-dev @types/js-cookie axios js-cookie --save-dev nodemon jest supertest;
-
-
-
